@@ -1,12 +1,66 @@
-# Travel and Tourism Website Project
-This repo contains Travel and Tourism Website Project.<br/>
+# ✈️ Travel & Tourism Website
 
-This project has no backend. <br/>
+A responsive and visually appealing travel website built using HTML, CSS, and JavaScript.
+This project provides users with information about flight deals, hotel bookings, and popular destinations through a clean and interactive interface.
 
-Have a look to snaps of website in [snaps](https://github.com/prasang0607/travel-and-tourism-website-HTML-and-CSS-project/tree/master/Snaps) folder.
+---
 
-## Languages Used <br/>
+## 📌 Features
 
-* HTML and CSS
-* Bootstrap
-* [Materialize CSS](https://materializecss.com/)
+* ✈️ Explore flight deals and travel packages
+* 🏨 Hotel booking pages (Taj Mahal Palace, The Oberoi, etc.)
+* 📝 Blog / recommendations section
+* 🔐 Login page UI
+* 📱 Fully responsive design
+* 🎨 Modern and user-friendly interface
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## 📂 Project Structure
+
+```
+Travel-and-Tourism/
+│
+├── index.html
+├── Login.html
+├── blogger.html
+├── Recommendations.html
+├── TajMahalPalace.html
+├── TheOberoi.html
+│
+├── css/
+├── js/
+├── Images/
+```
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```
+git clone https://github.com/mr-nobody2003/Travel-and-Tourism.git
+```
+
+2. Open the folder
+3. Run `index.html` in your browser
+
+---
+
+## 📌 Future Improvements
+
+* Add backend for booking system
+* User authentication & database integration
+* Payment gateway integration
+* API-based dynamic travel data
+* Search and filter functionality
+
