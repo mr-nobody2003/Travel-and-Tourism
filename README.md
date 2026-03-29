@@ -7,7 +7,7 @@ This project provides users with information about flight deals, hotel bookings,
 
 ## 📌 Features
 
-* ✈️ Explore flight deals and travel packages
+* ✈️ Explore flight and bus deals along with exciting travel packages
 * 🏨 Hotel booking pages (Taj Mahal Palace, The Oberoi, etc.)
 * 📝 Blog / recommendations section
 * 🔐 Login page UI
