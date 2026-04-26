@@ -24,25 +24,6 @@ This project provides users with information about flight deals, hotel bookings,
 
 ---
 
-## 📂 Project Structure
-
-```
-Travel-and-Tourism/
-│
-├── index.html
-├── Login.html
-├── blogger.html
-├── Recommendations.html
-├── TajMahalPalace.html
-├── TheOberoi.html
-│
-├── css/
-├── js/
-├── Images/
-```
-
----
-
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
